@@ -7,7 +7,7 @@ This stops the "the device will automatically restart tomorrow" or "yoU cAn OnLy
 
 F off Samsung, you're going to do exactly what LG did and give us "the newest fanciest Android OS LoTs oF bElLS anD WhiStlES!!" which ends up draining your battery overnight and giving you janky UI performance.
 
-Which ultimately ends up 
+Which ultimately ends up forcing you to upgrade or riskily downgrade your phone with shady tools online (depending on the phone)
 
 # usage
 
