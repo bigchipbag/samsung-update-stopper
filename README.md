@@ -9,6 +9,8 @@ F off Samsung, you're going to do exactly what LG did and give us "the newest fa
 
 Which ultimately ends up forcing you to upgrade or riskily downgrade your phone with shady tools online (depending on the phone)
 
+I have only tested this on a S20 FE 5G, but it should work on most samsung devices, but use at your own risk
+
 # usage
 
 Make sure you have the adb package, debug mode enabled, and fingerprint trusted for debugging
