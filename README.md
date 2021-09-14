@@ -9,7 +9,7 @@ If anything, this will do exactly what LG did and give us "the newest fanciest A
 
 Ultimately this ends up forcing you to upgrade or riskily downgrade your phone with shady tools online (depending on the phone)
 
-I have only tested this on a S20 FE 5G, but it should work on most samsung devices, but use at your own risk
+I have only tested this on an S20 FE 5G and Note9, but it should work on most samsung devices, but use at your own risk
 
 # usage
 
