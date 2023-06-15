@@ -41,3 +41,13 @@
 .\adb.exe shell pm disable-user --user 0 com.google.android.gm
 .\adb.exe shell pm disable-user --user 0 com.google.android.googlequicksearchbox
 .\adb.exe shell pm disable-user --user 0 com.google.android.youtube
+.\adb.exe shell pm disable-user --user 0 com.samsung.android.service.airviewdictionary
+.\adb.exe shell pm disable-user --user 0 com.samsung.android.aremoji
+.\adb.exe shell pm disable-user --user 0 com.tmobile.simlock
+.\adb.exe shell pm disable-user --user 0 com.tmobile.pr.mytmobile
+.\adb.exe shell pm disable-user --user 0 com.samsung.systemui.bixby2
+.\adb.exe shell pm disable-user --user 0 com.tmobile.pr.adapt
+.\adb.exe shell pm disable-user --user 0 com.samsung.android.app.settings.bixby
+.\adb.exe shell pm disable-user --user 0 com.samsung.android.themecenter
+.\adb.exe shell pm disable-user --user 0 com.google.android.apps.walletnfcrel
+.\adb.exe shell pm disable-user --user 0 com.google.android.apps.photos
