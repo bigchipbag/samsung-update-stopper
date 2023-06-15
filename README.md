@@ -18,3 +18,5 @@ Make sure you have the adb package, debug mode enabled, and fingerprint trusted 
 Run the .bat file in the ADB.exe directory
 
 Updates will go away and you can rest easy your phone will last more than a year.
+
+I also added an optiona debloat bat file to nuke most of the included bloatware.
