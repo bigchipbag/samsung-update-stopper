@@ -13,7 +13,8 @@ I have only tested this on an S20 FE 5G and Note9, but it should work on most sa
 
 # usage
 
-Make sure you have the adb package, debug mode enabled, and fingerprint trusted for debugging
+Make sure you have the adb package, debug mode enabled, and fingerprint trusted for debugging. 
+
 If you use the debloat, make sure you have fdroid and openboard installed as it would disable samsung honeyboard keyboard. 
 
 Run the .bat file in the ADB.exe directory
