@@ -51,3 +51,4 @@
 .\adb.exe shell pm disable-user --user 0 com.samsung.android.themecenter
 .\adb.exe shell pm disable-user --user 0 com.google.android.apps.walletnfcrel
 .\adb.exe shell pm disable-user --user 0 com.google.android.apps.photos
+.\adb.exe shell pm disable-user --user 0 com.google.android.apps.tachyon
